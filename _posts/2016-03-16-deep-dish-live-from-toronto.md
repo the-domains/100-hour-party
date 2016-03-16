@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: The Global Underground album of the recoding of the set played that night
-datePublished: '2016-03-16T20:02:26.224Z'
-dateModified: '2016-03-16T20:01:42.963Z'
+description: "This is the album release on the album recorded live this night\_"
+datePublished: '2016-03-16T22:00:10.241Z'
+dateModified: '2016-03-16T22:00:09.068Z'
 title: 'Deep Dish live from Toronto '
 author: []
 authors: []
@@ -30,6 +30,5 @@ I'm on the back of the 4 disc punching a red headed troll in the head. ![](https
 
 I'm on the back of the 4 disc not the 2 disc but yup that's me and that was not nearly the most memorable experience that happened that weekend
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2c1ea6e-628e-4c13-b56e-55c3f8c124dc.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/290c0682-9e5d-4589-b042-dd2a227cbf4b.jpg)
 
 I like to party and sometimes we have a good time
