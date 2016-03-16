@@ -1,0 +1,28 @@
+name: 100 Hour Party
+favicon: null
+layout_spectrum: 0.4628289667889476
+typography_spectrum: 0.6437632972374558
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9948470012750477
+  lightness: 0.1878980896435678
+  saturation: 0.05172587023116648
+  rhythmicContrast: 0.41971296863630414
+purpose: []
