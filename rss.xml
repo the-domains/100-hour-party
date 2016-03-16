@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[100 Hour Party]]></title>
-        <description><![CDATA[100 Hour Party]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[100 Hour Party - Confessions of a Danceaholic ]]></title>
+        <description><![CDATA[100 Hour Party - Confessions of a Danceaholic ]]></description>
+        <link>https://thegrid.ai/100-hour-party/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 19:01:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 20:02:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/100-hour-party/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deep Dish live from Toronto ]]></title>
+            <description><![CDATA[<article><h1>Deep Dish live from Toronto </h1><p>This is the album release on the album recorded live this night </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ace43ad-a446-47c8-ba49-8cf21457dff1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/100-hour-party/deep-dish-live-from-toronto/index.html</link>
+            <guid isPermaLink="false">004ce7c5-039d-43f7-bf51-ae5b8707f871</guid>
+            <pubDate>Wed, 16 Mar 2016 20:02:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34726331-0b92-43d1-9962-2564a7da6e15.jpg">]]></description>
-            <link>undefinedoften-we-have-a-plan-to-go-out-on-friday-night-to-a-club-an/index.html</link>
+            <link>https://thegrid.ai/100-hour-party/often-we-have-a-plan-to-go-out-on-friday-night-to-a-club-an/index.html</link>
             <guid isPermaLink="false">a0827500-a998-42ff-ad83-ad50ddad2140</guid>
             <pubDate>Wed, 16 Mar 2016 19:00:55 GMT</pubDate>
         </item>
