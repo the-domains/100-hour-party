@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[100 Hour Party]]></title>
+        <description><![CDATA[100 Hour Party]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Mar 2016 19:01:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34726331-0b92-43d1-9962-2564a7da6e15.jpg">]]></description>
+            <link>undefinedoften-we-have-a-plan-to-go-out-on-friday-night-to-a-club-an/index.html</link>
+            <guid isPermaLink="false">a0827500-a998-42ff-ad83-ad50ddad2140</guid>
+            <pubDate>Wed, 16 Mar 2016 19:00:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
