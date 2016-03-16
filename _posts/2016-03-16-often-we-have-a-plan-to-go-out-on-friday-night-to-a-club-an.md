@@ -1,14 +1,14 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "Often we have a plan to go out on Friday night to a club an dance all night long. \_Sometimes that turns into Partying from Thursday to Monday this is a story of one of those weekends.\_"
-datePublished: '2016-03-16T21:54:31.427Z'
-dateModified: '2016-03-16T20:24:35.582Z'
-title: ''
+description: "Often we have a plan to go out on Friday night to a club an dance all night long. \_Sometimes that turns into Partying from Thursday to q Monday this is a story of one of those weekends.\_"
+datePublished: '2016-03-16T21:59:02.360Z'
+dateModified: '2016-03-16T21:58:50.939Z'
+title: Danceaholics
 author: []
 sourcePath: _posts/2016-03-16-often-we-have-a-plan-to-go-out-on-friday-night-to-a-club-an.md
 published: true
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: often-we-have-a-plan-to-go-out-on-friday-night-to-a-club-an/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34726331-0b92-43d1-9962-2564a7da6e15.jpg)
